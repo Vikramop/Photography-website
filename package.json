@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Vikramop/Photography-website/issues"
   },
-  "homepage": "https://github.com/Vikramop/Photography-website#readme"
+  "homepage": "https://github.com/Vikramop/Photography-website#readme",
+  "dependencies": {
+    "react-icons": "^4.7.1"
+  }
 }
